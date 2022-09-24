@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Diary App</string>
+    <string name="user_profile">User Profile</string>
+    <string name="register_as_new_user">Register as NEW user?</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="cpassword">Confirmed Password</string>
+    <string name="register">Register</string>
+    <string name="signin">Sign In</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="loguot">Log Out</string>
+    <string name="date">Pick Your Date</string>
+    <string name="time">Pick Your Time</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="setting">Settings</string>
+    <string name="email">Email</string>
+    <string name="edit">Update</string>
+    <string name="usedfaceid">Face / Fingerprint Unlock</string>
+    <string name="setupfaceid">Set Up Face Unlock</string>
+    <string name="removesetupfaceid">Remove Face Set Up</string>
+    <string name="loginwithface">Login by Face</string>
+    <string name="loginwithfinger">Login by Biometric</string>
+    <string name="diarydate">Date :</string>
+    <string name="diarytime">Time :</string>
+    <string name="subject">Subject :</string>
+    <string name="content">Content :</string>
+    <string name="location">Location :</string>
+    <string name="emotion">Emotion :</string>
+    <string name="dot">Write Here..</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_location_maps">LocationMapsActivity</string>
+
+</resources>

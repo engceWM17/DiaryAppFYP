@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv"
+4    android:versionCode="34130"
+5    android:versionName="3.4.13" >
+6
+7    <uses-sdk
+7-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:7:5-74
+8        android:minSdkVersion="14"
+8-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:7:15-41
+9        android:targetSdkVersion="32" />
+9-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:7:42-71
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:5-65
+11-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:22-62
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:5-65
+12-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:22-62
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:5-65
+13-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:22-62
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:5-65
+14-->C:\Users\User\AndroidStudioProjects\DiaryApp\sdk\java\AndroidManifest.xml:8:22-62
+15
+16</manifest>
